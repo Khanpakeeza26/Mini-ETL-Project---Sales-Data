@@ -86,7 +86,7 @@ This ensures all phone numbers follow the format:
 
 🛠️ How to Run the Project
 1. Clone the Repository
-git clone https://github.com/<your-username>/Sales-Data-ETL.git
+git clone https://github.com/<Khanpakeeza26>/Sales-Data-ETL.git
 cd Sales-Data-ETL
 
 2. Install Dependencies
